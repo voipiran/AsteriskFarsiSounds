@@ -93,6 +93,7 @@ that-was-an-invalid.gsm,That was an invalid entry.,ورودی نامعتبر ب�
 
 
 
+
 🔢 لیست اعداد، روزهای هفته و ماه‌ها برای copy/paste
 
 filename,english_text,persian_translation
