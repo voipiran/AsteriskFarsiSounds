@@ -23,6 +23,7 @@
 
 🗂 لیست جامع پیام‌های Asterisk (به جز digits)
 
+
 filename,english_text,persian_translation
 agent-user.gsm,Agent login. Please enter your agent number followed by the pound key.,برای ورود اپراتور، شماره اپراتور خود را وارد و کلید # را فشار دهید.
 agent-pass.gsm,Please enter your password followed by the pound key.,لطفاً رمز عبور خود را وارد و کلید # را فشار دهید.
@@ -90,6 +91,7 @@ goodbye.gsm,Goodbye.,خداحافظ.
 sorry.gsm,I'm sorry.,متأسفم.
 all-circuits-busy-now.gsm,All circuits are busy now.,همه خطوط در حال حاضر مشغول هستند.
 that-was-an-invalid.gsm,That was an invalid entry.,ورودی نامعتبر بود.
+
 
 
 
